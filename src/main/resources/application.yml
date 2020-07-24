@@ -1,0 +1,11 @@
+jms:
+    username: user_number_two
+    password: some_secret_jms_psw
+    url: u_r_l_jms
+---
+spring:
+  profiles: de
+jms:
+  username: user_number_two_GERMAN
+
+
